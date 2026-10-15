@@ -8,8 +8,8 @@ import java.io.FileNotFoundException;
 public class Main {
 
     private static String pathToTextFiles = System.getProperty("user.dir") + "/src/main/resources/be/ugent/pixels/files/";
-    private static String FILE = "smallOne.txt";
-    //private static String FILE = "bigOne.txt";
+    //private static String FILE = "smallOne.txt";
+    private static String FILE = "bigOne.txt";
 
 
     public static void main(String[] args) {
