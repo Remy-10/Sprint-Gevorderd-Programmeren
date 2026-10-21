@@ -1,0 +1,9 @@
+de straat heeft zoveel plekjes:
+20
+naam,huisnummer,positie van linkerhoek,gevelbreedte
+Buurmans huis,6,12,2
+Ons huisje,8,14,1
+Laatste huis in de rij,12,17,2
+De andere buren,10,15,1
+Villa Azalea,2,2,4
+Apotheek,4,7,3

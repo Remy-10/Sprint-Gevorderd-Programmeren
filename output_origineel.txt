@@ -1,0 +1,21 @@
+
+0
+1
+2  nr 2 Villa Azalea
+3  nr 2 Villa Azalea
+4  nr 2 Villa Azalea
+5  nr 2 Villa Azalea
+6
+7  nr 4 Apotheek
+8  nr 4 Apotheek
+9  nr 4 Apotheek
+10
+11
+12  nr 6 Buurmans huis
+13  nr 6 Buurmans huis
+14  nr 8 Ons huisje
+15  nr 10 De andere buren
+16
+17  nr 12 Laatste huis in de rij
+18  nr 12 Laatste huis in de rij
+19
