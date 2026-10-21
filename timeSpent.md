@@ -83,20 +83,23 @@
 * 2026-10-14 19:06: Create .idea
 
 ### Noah
-15/10/2026 20:35: Modify PixelGrid.java
-15/10/2026 20:32: Modify Main.java
-15/10/2026 20:29: Modify PixelGrid.java
-15/10/2026 20:28: Modify PixelGrid.java
-15/10/2026 20:27: Modify PixelGrid.java
-15/10/2026 18:56: Modify PixelGrid.java
-15/10/2026 18:51: Modify PixelGrid.java
-15/10/2026 18:48: Modify PixelGrid.java
-15/10/2026 18:48: Modify PixelGrid.java
-15/10/2026 18:43: Modify PixelGrid.java
-15/10/2026 18:42: Modify PixelGrid.java
-15/10/2026 18:27: Modify PixelGrid.java
-15/10/2026 18:14: Modify PixelGrid.java
-15/10/2026 18:03: build started c5df611
-15/10/2026 17:50: After update
-15/10/2026 17:50: Update from VCS
-15/10/2026 17:50: Before update
+* 15/10/2026 20:35: Modify PixelGrid.java
+* 15/10/2026 20:32: Modify Main.java
+* 15/10/2026 20:29: Modify PixelGrid.java
+* 15/10/2026 20:28: Modify PixelGrid.java
+* 15/10/2026 20:27: Modify PixelGrid.java
+* 15/10/2026 18:56: Modify PixelGrid.java
+* 15/10/2026 18:51: Modify PixelGrid.java
+* 15/10/2026 18:48: Modify PixelGrid.java
+* 15/10/2026 18:48: Modify PixelGrid.java
+* 15/10/2026 18:43: Modify PixelGrid.java
+* 15/10/2026 18:42: Modify PixelGrid.java
+* 15/10/2026 18:27: Modify PixelGrid.java
+* 15/10/2026 18:14: Modify PixelGrid.java
+* 15/10/2026 18:03: build started c5df611
+* 15/10/2026 17:50: After update
+* 15/10/2026 17:50: Update from VCS
+* 15/10/2026 17:50: Before update
+
+### Noah & Rémy
+* 22:29 -> 22:56
