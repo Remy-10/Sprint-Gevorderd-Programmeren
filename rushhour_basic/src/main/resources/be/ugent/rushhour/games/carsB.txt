@@ -1,0 +1,4 @@
+10 10
+geel VERTICAL 3 3 1
+rood HORIZONTAL 2 0 2
+blauw HORIZONTAL 2 3 5
