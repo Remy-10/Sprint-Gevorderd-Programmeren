@@ -15,7 +15,7 @@ public class Main {
 
         try {
 
-            IRushHourGame game = new DummyRushHourGame();
+            IRushHourGame game = new RushHourGame(pathToTextFiles + GAMEFILE);
 
             smallTests();
             showGameOnConsole(game);
